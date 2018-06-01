@@ -1,4 +1,4 @@
-#Unity_Hit_Bricks
+# Unity_Hit_Bricks
 
 This is my first program about unity.
 
