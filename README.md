@@ -1,12 +1,12 @@
-# Unity_Hit_Bricks#
+#Unity_Hit_Bricks
 
 This is my first program about unity.
 
 I did it follow a tutorition in the Internet. 
 
-## Screen shoot##
+## Screen shoot
 
-![1527858432244](C:\Users\Mr.Han\AppData\Local\Temp\1527858432244.png)
+![Alt text](https://github.com/Hunterhuan/Unity_Hit_Bricks/raw/master/Screenshots/1.png)
 
 You have three lives.
 
